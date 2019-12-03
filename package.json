@@ -1,0 +1,16 @@
+{
+  "name": "chatbot_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-telegram-bot-api": "^0.40.0",
+    "body-parser": "latest"
+  },
+  "author": "",
+  "license": "ISC"
+}
